@@ -1,0 +1,6 @@
+{
+  "name": "devin-proxy-fix",
+  "displayName": "Devin Proxy Fix",
+  "version": "1.0.0",
+  "description": "Diagnose and fix Devin Desktop connectivity and degraded features (missing models, /model unavailable) when running behind a local HTTP/SOCKS proxy such as Clash on Windows."
+}
